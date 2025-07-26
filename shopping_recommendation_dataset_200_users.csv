@@ -1,0 +1,1020 @@
+user_id,product_id,product_name,category,price,rating
+1001,P006,Sunglasses,Accessories,699,3.1
+1001,P009,Jeans,Clothing,1299,4.9
+1001,P004,Wrist Watch,Accessories,1999,3.7
+1001,P008,Formal Shoes,Footwear,3499,4.5
+1001,P003,Bluetooth Speaker,Electronics,1499,4.0
+1002,P010,Smartphone Stand,Electronics,399,3.9
+1002,P006,Sunglasses,Accessories,699,3.2
+1002,P007,Headphones,Electronics,2499,4.2
+1002,P005,Backpack,Accessories,899,4.0
+1002,P008,Formal Shoes,Footwear,3499,3.0
+1002,P004,Wrist Watch,Accessories,1999,4.2
+1002,P003,Bluetooth Speaker,Electronics,1499,3.2
+1003,P006,Sunglasses,Accessories,699,4.0
+1003,P005,Backpack,Accessories,899,4.3
+1003,P004,Wrist Watch,Accessories,1999,4.9
+1003,P002,T-shirt,Clothing,599,4.0
+1003,P009,Jeans,Clothing,1299,3.8
+1004,P005,Backpack,Accessories,899,4.4
+1004,P010,Smartphone Stand,Electronics,399,3.7
+1004,P004,Wrist Watch,Accessories,1999,3.0
+1004,P001,Running Shoes,Footwear,2999,3.3
+1004,P003,Bluetooth Speaker,Electronics,1499,4.9
+1004,P009,Jeans,Clothing,1299,4.5
+1005,P006,Sunglasses,Accessories,699,4.1
+1005,P008,Formal Shoes,Footwear,3499,4.6
+1005,P005,Backpack,Accessories,899,3.7
+1006,P009,Jeans,Clothing,1299,3.8
+1006,P004,Wrist Watch,Accessories,1999,4.3
+1006,P001,Running Shoes,Footwear,2999,4.6
+1006,P008,Formal Shoes,Footwear,3499,3.5
+1006,P005,Backpack,Accessories,899,3.8
+1006,P003,Bluetooth Speaker,Electronics,1499,4.8
+1007,P008,Formal Shoes,Footwear,3499,4.4
+1007,P007,Headphones,Electronics,2499,4.1
+1007,P009,Jeans,Clothing,1299,3.6
+1008,P007,Headphones,Electronics,2499,4.1
+1008,P010,Smartphone Stand,Electronics,399,3.8
+1008,P002,T-shirt,Clothing,599,5.0
+1008,P008,Formal Shoes,Footwear,3499,3.3
+1008,P001,Running Shoes,Footwear,2999,4.6
+1008,P004,Wrist Watch,Accessories,1999,4.9
+1008,P003,Bluetooth Speaker,Electronics,1499,3.6
+1009,P007,Headphones,Electronics,2499,3.5
+1009,P009,Jeans,Clothing,1299,4.8
+1009,P002,T-shirt,Clothing,599,4.2
+1009,P006,Sunglasses,Accessories,699,4.0
+1009,P004,Wrist Watch,Accessories,1999,4.3
+1010,P010,Smartphone Stand,Electronics,399,3.1
+1010,P007,Headphones,Electronics,2499,3.1
+1010,P003,Bluetooth Speaker,Electronics,1499,4.4
+1010,P002,T-shirt,Clothing,599,4.2
+1010,P005,Backpack,Accessories,899,3.2
+1010,P004,Wrist Watch,Accessories,1999,3.0
+1010,P001,Running Shoes,Footwear,2999,3.4
+1011,P008,Formal Shoes,Footwear,3499,3.1
+1011,P010,Smartphone Stand,Electronics,399,3.2
+1011,P002,T-shirt,Clothing,599,4.2
+1011,P001,Running Shoes,Footwear,2999,4.0
+1011,P009,Jeans,Clothing,1299,4.2
+1011,P003,Bluetooth Speaker,Electronics,1499,3.5
+1011,P006,Sunglasses,Accessories,699,3.5
+1012,P001,Running Shoes,Footwear,2999,4.0
+1012,P007,Headphones,Electronics,2499,4.7
+1012,P008,Formal Shoes,Footwear,3499,4.4
+1012,P009,Jeans,Clothing,1299,4.6
+1012,P004,Wrist Watch,Accessories,1999,3.3
+1013,P010,Smartphone Stand,Electronics,399,4.4
+1013,P002,T-shirt,Clothing,599,4.2
+1013,P008,Formal Shoes,Footwear,3499,3.7
+1013,P004,Wrist Watch,Accessories,1999,3.9
+1013,P005,Backpack,Accessories,899,3.7
+1014,P004,Wrist Watch,Accessories,1999,4.9
+1014,P003,Bluetooth Speaker,Electronics,1499,3.4
+1014,P008,Formal Shoes,Footwear,3499,3.1
+1014,P001,Running Shoes,Footwear,2999,4.9
+1014,P002,T-shirt,Clothing,599,3.2
+1014,P006,Sunglasses,Accessories,699,3.0
+1015,P010,Smartphone Stand,Electronics,399,4.4
+1015,P005,Backpack,Accessories,899,3.0
+1015,P007,Headphones,Electronics,2499,3.9
+1015,P003,Bluetooth Speaker,Electronics,1499,4.9
+1015,P002,T-shirt,Clothing,599,3.7
+1015,P004,Wrist Watch,Accessories,1999,4.9
+1015,P009,Jeans,Clothing,1299,3.2
+1016,P002,T-shirt,Clothing,599,3.4
+1016,P001,Running Shoes,Footwear,2999,3.1
+1016,P003,Bluetooth Speaker,Electronics,1499,3.9
+1016,P005,Backpack,Accessories,899,3.3
+1016,P009,Jeans,Clothing,1299,3.5
+1016,P004,Wrist Watch,Accessories,1999,4.9
+1017,P009,Jeans,Clothing,1299,3.8
+1017,P010,Smartphone Stand,Electronics,399,4.6
+1017,P005,Backpack,Accessories,899,4.8
+1018,P002,T-shirt,Clothing,599,4.8
+1018,P001,Running Shoes,Footwear,2999,5.0
+1018,P009,Jeans,Clothing,1299,3.6
+1018,P010,Smartphone Stand,Electronics,399,4.8
+1018,P004,Wrist Watch,Accessories,1999,4.9
+1019,P009,Jeans,Clothing,1299,3.3
+1019,P010,Smartphone Stand,Electronics,399,3.5
+1019,P004,Wrist Watch,Accessories,1999,5.0
+1019,P002,T-shirt,Clothing,599,4.1
+1020,P006,Sunglasses,Accessories,699,4.5
+1020,P004,Wrist Watch,Accessories,1999,4.2
+1020,P001,Running Shoes,Footwear,2999,3.6
+1020,P007,Headphones,Electronics,2499,3.1
+1020,P002,T-shirt,Clothing,599,4.8
+1020,P003,Bluetooth Speaker,Electronics,1499,3.9
+1020,P010,Smartphone Stand,Electronics,399,3.5
+1021,P010,Smartphone Stand,Electronics,399,4.0
+1021,P009,Jeans,Clothing,1299,4.6
+1021,P008,Formal Shoes,Footwear,3499,3.4
+1021,P006,Sunglasses,Accessories,699,3.1
+1021,P001,Running Shoes,Footwear,2999,4.3
+1021,P005,Backpack,Accessories,899,5.0
+1022,P002,T-shirt,Clothing,599,4.0
+1022,P010,Smartphone Stand,Electronics,399,3.2
+1022,P008,Formal Shoes,Footwear,3499,4.7
+1022,P009,Jeans,Clothing,1299,4.0
+1023,P007,Headphones,Electronics,2499,3.3
+1023,P003,Bluetooth Speaker,Electronics,1499,3.7
+1023,P006,Sunglasses,Accessories,699,3.1
+1023,P001,Running Shoes,Footwear,2999,4.7
+1024,P003,Bluetooth Speaker,Electronics,1499,4.7
+1024,P008,Formal Shoes,Footwear,3499,3.7
+1024,P005,Backpack,Accessories,899,4.4
+1024,P010,Smartphone Stand,Electronics,399,3.1
+1024,P007,Headphones,Electronics,2499,3.2
+1025,P005,Backpack,Accessories,899,3.9
+1025,P009,Jeans,Clothing,1299,4.2
+1025,P003,Bluetooth Speaker,Electronics,1499,3.6
+1025,P010,Smartphone Stand,Electronics,399,4.4
+1026,P005,Backpack,Accessories,899,4.2
+1026,P010,Smartphone Stand,Electronics,399,3.6
+1026,P003,Bluetooth Speaker,Electronics,1499,3.1
+1026,P009,Jeans,Clothing,1299,3.7
+1026,P001,Running Shoes,Footwear,2999,4.9
+1026,P006,Sunglasses,Accessories,699,4.8
+1026,P002,T-shirt,Clothing,599,4.1
+1027,P004,Wrist Watch,Accessories,1999,4.7
+1027,P006,Sunglasses,Accessories,699,4.4
+1027,P007,Headphones,Electronics,2499,4.4
+1028,P005,Backpack,Accessories,899,4.0
+1028,P002,T-shirt,Clothing,599,3.4
+1028,P010,Smartphone Stand,Electronics,399,3.2
+1028,P008,Formal Shoes,Footwear,3499,4.0
+1028,P001,Running Shoes,Footwear,2999,3.4
+1029,P005,Backpack,Accessories,899,4.3
+1029,P010,Smartphone Stand,Electronics,399,4.8
+1029,P002,T-shirt,Clothing,599,4.4
+1030,P009,Jeans,Clothing,1299,3.3
+1030,P005,Backpack,Accessories,899,3.3
+1030,P003,Bluetooth Speaker,Electronics,1499,3.7
+1031,P009,Jeans,Clothing,1299,3.9
+1031,P004,Wrist Watch,Accessories,1999,5.0
+1031,P008,Formal Shoes,Footwear,3499,4.7
+1031,P002,T-shirt,Clothing,599,3.6
+1032,P006,Sunglasses,Accessories,699,3.5
+1032,P003,Bluetooth Speaker,Electronics,1499,4.2
+1032,P010,Smartphone Stand,Electronics,399,3.8
+1033,P003,Bluetooth Speaker,Electronics,1499,3.5
+1033,P007,Headphones,Electronics,2499,3.1
+1033,P010,Smartphone Stand,Electronics,399,3.7
+1033,P005,Backpack,Accessories,899,4.9
+1033,P009,Jeans,Clothing,1299,4.5
+1033,P008,Formal Shoes,Footwear,3499,4.4
+1033,P004,Wrist Watch,Accessories,1999,4.4
+1034,P010,Smartphone Stand,Electronics,399,4.4
+1034,P004,Wrist Watch,Accessories,1999,4.5
+1034,P002,T-shirt,Clothing,599,4.9
+1034,P007,Headphones,Electronics,2499,3.2
+1034,P008,Formal Shoes,Footwear,3499,3.8
+1034,P003,Bluetooth Speaker,Electronics,1499,3.4
+1034,P006,Sunglasses,Accessories,699,4.8
+1035,P003,Bluetooth Speaker,Electronics,1499,4.3
+1035,P002,T-shirt,Clothing,599,3.8
+1035,P004,Wrist Watch,Accessories,1999,3.2
+1035,P008,Formal Shoes,Footwear,3499,4.2
+1035,P007,Headphones,Electronics,2499,3.7
+1036,P003,Bluetooth Speaker,Electronics,1499,3.8
+1036,P007,Headphones,Electronics,2499,3.2
+1036,P001,Running Shoes,Footwear,2999,4.8
+1037,P010,Smartphone Stand,Electronics,399,4.2
+1037,P004,Wrist Watch,Accessories,1999,3.2
+1037,P009,Jeans,Clothing,1299,4.0
+1037,P006,Sunglasses,Accessories,699,3.8
+1038,P001,Running Shoes,Footwear,2999,4.0
+1038,P010,Smartphone Stand,Electronics,399,4.5
+1038,P004,Wrist Watch,Accessories,1999,4.9
+1039,P005,Backpack,Accessories,899,4.1
+1039,P008,Formal Shoes,Footwear,3499,4.4
+1039,P002,T-shirt,Clothing,599,3.9
+1039,P009,Jeans,Clothing,1299,3.9
+1039,P007,Headphones,Electronics,2499,4.0
+1040,P006,Sunglasses,Accessories,699,4.0
+1040,P004,Wrist Watch,Accessories,1999,4.0
+1040,P002,T-shirt,Clothing,599,4.9
+1040,P009,Jeans,Clothing,1299,3.2
+1040,P005,Backpack,Accessories,899,3.6
+1040,P008,Formal Shoes,Footwear,3499,3.5
+1041,P004,Wrist Watch,Accessories,1999,4.4
+1041,P007,Headphones,Electronics,2499,3.6
+1041,P002,T-shirt,Clothing,599,3.3
+1041,P010,Smartphone Stand,Electronics,399,3.8
+1041,P009,Jeans,Clothing,1299,4.3
+1042,P002,T-shirt,Clothing,599,4.4
+1042,P003,Bluetooth Speaker,Electronics,1499,4.7
+1042,P009,Jeans,Clothing,1299,3.6
+1042,P010,Smartphone Stand,Electronics,399,4.6
+1042,P008,Formal Shoes,Footwear,3499,4.6
+1042,P005,Backpack,Accessories,899,4.8
+1043,P005,Backpack,Accessories,899,3.9
+1043,P007,Headphones,Electronics,2499,4.7
+1043,P001,Running Shoes,Footwear,2999,4.8
+1043,P008,Formal Shoes,Footwear,3499,4.3
+1043,P004,Wrist Watch,Accessories,1999,3.8
+1044,P005,Backpack,Accessories,899,3.4
+1044,P006,Sunglasses,Accessories,699,4.8
+1044,P002,T-shirt,Clothing,599,4.1
+1044,P010,Smartphone Stand,Electronics,399,3.0
+1044,P009,Jeans,Clothing,1299,4.5
+1044,P004,Wrist Watch,Accessories,1999,3.5
+1044,P007,Headphones,Electronics,2499,3.4
+1045,P009,Jeans,Clothing,1299,4.4
+1045,P005,Backpack,Accessories,899,4.8
+1045,P003,Bluetooth Speaker,Electronics,1499,3.3
+1045,P008,Formal Shoes,Footwear,3499,4.7
+1045,P004,Wrist Watch,Accessories,1999,4.5
+1045,P007,Headphones,Electronics,2499,4.3
+1046,P010,Smartphone Stand,Electronics,399,4.7
+1046,P009,Jeans,Clothing,1299,4.2
+1046,P006,Sunglasses,Accessories,699,3.3
+1046,P003,Bluetooth Speaker,Electronics,1499,3.6
+1046,P004,Wrist Watch,Accessories,1999,3.3
+1047,P005,Backpack,Accessories,899,4.0
+1047,P003,Bluetooth Speaker,Electronics,1499,3.7
+1047,P010,Smartphone Stand,Electronics,399,3.6
+1047,P004,Wrist Watch,Accessories,1999,3.8
+1047,P006,Sunglasses,Accessories,699,4.5
+1047,P007,Headphones,Electronics,2499,4.6
+1047,P001,Running Shoes,Footwear,2999,4.4
+1048,P007,Headphones,Electronics,2499,3.3
+1048,P002,T-shirt,Clothing,599,3.7
+1048,P010,Smartphone Stand,Electronics,399,3.5
+1048,P003,Bluetooth Speaker,Electronics,1499,4.0
+1048,P006,Sunglasses,Accessories,699,4.1
+1049,P005,Backpack,Accessories,899,3.5
+1049,P010,Smartphone Stand,Electronics,399,3.9
+1049,P001,Running Shoes,Footwear,2999,3.6
+1049,P008,Formal Shoes,Footwear,3499,3.8
+1050,P003,Bluetooth Speaker,Electronics,1499,4.7
+1050,P006,Sunglasses,Accessories,699,3.4
+1050,P010,Smartphone Stand,Electronics,399,3.6
+1050,P001,Running Shoes,Footwear,2999,4.0
+1050,P008,Formal Shoes,Footwear,3499,4.3
+1050,P005,Backpack,Accessories,899,4.1
+1050,P009,Jeans,Clothing,1299,4.5
+1051,P007,Headphones,Electronics,2499,4.4
+1051,P009,Jeans,Clothing,1299,3.9
+1051,P002,T-shirt,Clothing,599,3.5
+1051,P008,Formal Shoes,Footwear,3499,4.8
+1051,P001,Running Shoes,Footwear,2999,4.9
+1051,P003,Bluetooth Speaker,Electronics,1499,4.3
+1051,P006,Sunglasses,Accessories,699,3.3
+1052,P001,Running Shoes,Footwear,2999,3.9
+1052,P008,Formal Shoes,Footwear,3499,3.9
+1052,P003,Bluetooth Speaker,Electronics,1499,3.1
+1053,P008,Formal Shoes,Footwear,3499,4.6
+1053,P004,Wrist Watch,Accessories,1999,4.1
+1053,P001,Running Shoes,Footwear,2999,3.7
+1053,P002,T-shirt,Clothing,599,3.1
+1053,P005,Backpack,Accessories,899,4.8
+1053,P007,Headphones,Electronics,2499,4.6
+1053,P003,Bluetooth Speaker,Electronics,1499,3.8
+1054,P007,Headphones,Electronics,2499,3.1
+1054,P002,T-shirt,Clothing,599,3.8
+1054,P010,Smartphone Stand,Electronics,399,3.3
+1054,P003,Bluetooth Speaker,Electronics,1499,4.9
+1055,P004,Wrist Watch,Accessories,1999,4.8
+1055,P007,Headphones,Electronics,2499,4.6
+1055,P010,Smartphone Stand,Electronics,399,4.2
+1055,P006,Sunglasses,Accessories,699,3.5
+1055,P002,T-shirt,Clothing,599,3.7
+1055,P008,Formal Shoes,Footwear,3499,3.8
+1055,P009,Jeans,Clothing,1299,4.1
+1056,P005,Backpack,Accessories,899,3.2
+1056,P001,Running Shoes,Footwear,2999,4.3
+1056,P004,Wrist Watch,Accessories,1999,4.1
+1056,P006,Sunglasses,Accessories,699,4.0
+1056,P008,Formal Shoes,Footwear,3499,4.9
+1056,P003,Bluetooth Speaker,Electronics,1499,3.2
+1057,P004,Wrist Watch,Accessories,1999,4.5
+1057,P005,Backpack,Accessories,899,3.6
+1057,P010,Smartphone Stand,Electronics,399,3.3
+1057,P009,Jeans,Clothing,1299,3.6
+1057,P007,Headphones,Electronics,2499,4.7
+1057,P008,Formal Shoes,Footwear,3499,4.7
+1058,P008,Formal Shoes,Footwear,3499,4.2
+1058,P009,Jeans,Clothing,1299,4.8
+1058,P006,Sunglasses,Accessories,699,3.8
+1059,P006,Sunglasses,Accessories,699,3.3
+1059,P001,Running Shoes,Footwear,2999,4.4
+1059,P008,Formal Shoes,Footwear,3499,3.2
+1060,P009,Jeans,Clothing,1299,3.8
+1060,P006,Sunglasses,Accessories,699,3.8
+1060,P002,T-shirt,Clothing,599,3.2
+1060,P004,Wrist Watch,Accessories,1999,4.2
+1060,P010,Smartphone Stand,Electronics,399,4.8
+1061,P002,T-shirt,Clothing,599,3.2
+1061,P007,Headphones,Electronics,2499,4.1
+1061,P009,Jeans,Clothing,1299,4.1
+1061,P005,Backpack,Accessories,899,4.8
+1061,P004,Wrist Watch,Accessories,1999,4.4
+1062,P002,T-shirt,Clothing,599,3.7
+1062,P010,Smartphone Stand,Electronics,399,3.1
+1062,P009,Jeans,Clothing,1299,4.7
+1062,P001,Running Shoes,Footwear,2999,4.4
+1062,P006,Sunglasses,Accessories,699,4.5
+1062,P005,Backpack,Accessories,899,3.2
+1063,P007,Headphones,Electronics,2499,4.9
+1063,P001,Running Shoes,Footwear,2999,4.9
+1063,P005,Backpack,Accessories,899,3.9
+1064,P003,Bluetooth Speaker,Electronics,1499,4.4
+1064,P007,Headphones,Electronics,2499,3.6
+1064,P009,Jeans,Clothing,1299,3.9
+1065,P007,Headphones,Electronics,2499,3.1
+1065,P010,Smartphone Stand,Electronics,399,3.1
+1065,P008,Formal Shoes,Footwear,3499,3.0
+1065,P006,Sunglasses,Accessories,699,4.1
+1065,P005,Backpack,Accessories,899,3.6
+1066,P005,Backpack,Accessories,899,3.3
+1066,P007,Headphones,Electronics,2499,3.3
+1066,P004,Wrist Watch,Accessories,1999,3.8
+1066,P008,Formal Shoes,Footwear,3499,4.9
+1067,P003,Bluetooth Speaker,Electronics,1499,4.3
+1067,P009,Jeans,Clothing,1299,3.3
+1067,P004,Wrist Watch,Accessories,1999,3.1
+1067,P007,Headphones,Electronics,2499,3.7
+1067,P006,Sunglasses,Accessories,699,3.1
+1067,P005,Backpack,Accessories,899,4.6
+1068,P008,Formal Shoes,Footwear,3499,3.2
+1068,P002,T-shirt,Clothing,599,4.7
+1068,P004,Wrist Watch,Accessories,1999,3.8
+1068,P005,Backpack,Accessories,899,4.6
+1068,P007,Headphones,Electronics,2499,3.7
+1069,P004,Wrist Watch,Accessories,1999,4.6
+1069,P005,Backpack,Accessories,899,3.9
+1069,P006,Sunglasses,Accessories,699,4.8
+1069,P010,Smartphone Stand,Electronics,399,4.4
+1069,P003,Bluetooth Speaker,Electronics,1499,3.5
+1070,P002,T-shirt,Clothing,599,4.6
+1070,P006,Sunglasses,Accessories,699,3.3
+1070,P005,Backpack,Accessories,899,3.5
+1070,P010,Smartphone Stand,Electronics,399,4.9
+1071,P005,Backpack,Accessories,899,4.5
+1071,P003,Bluetooth Speaker,Electronics,1499,3.5
+1071,P006,Sunglasses,Accessories,699,3.4
+1071,P008,Formal Shoes,Footwear,3499,3.5
+1071,P009,Jeans,Clothing,1299,3.5
+1072,P006,Sunglasses,Accessories,699,4.7
+1072,P008,Formal Shoes,Footwear,3499,4.3
+1072,P001,Running Shoes,Footwear,2999,5.0
+1072,P002,T-shirt,Clothing,599,3.0
+1072,P009,Jeans,Clothing,1299,4.5
+1072,P010,Smartphone Stand,Electronics,399,4.2
+1073,P002,T-shirt,Clothing,599,3.7
+1073,P009,Jeans,Clothing,1299,3.5
+1073,P005,Backpack,Accessories,899,3.5
+1073,P007,Headphones,Electronics,2499,4.7
+1074,P004,Wrist Watch,Accessories,1999,4.7
+1074,P001,Running Shoes,Footwear,2999,3.6
+1074,P009,Jeans,Clothing,1299,3.6
+1074,P008,Formal Shoes,Footwear,3499,4.5
+1075,P003,Bluetooth Speaker,Electronics,1499,3.2
+1075,P006,Sunglasses,Accessories,699,4.4
+1075,P004,Wrist Watch,Accessories,1999,4.3
+1075,P010,Smartphone Stand,Electronics,399,3.7
+1075,P008,Formal Shoes,Footwear,3499,4.3
+1075,P005,Backpack,Accessories,899,3.5
+1075,P002,T-shirt,Clothing,599,3.3
+1076,P001,Running Shoes,Footwear,2999,3.8
+1076,P010,Smartphone Stand,Electronics,399,3.2
+1076,P008,Formal Shoes,Footwear,3499,4.6
+1076,P007,Headphones,Electronics,2499,3.1
+1076,P005,Backpack,Accessories,899,3.4
+1076,P006,Sunglasses,Accessories,699,4.7
+1077,P010,Smartphone Stand,Electronics,399,3.9
+1077,P008,Formal Shoes,Footwear,3499,4.7
+1077,P001,Running Shoes,Footwear,2999,4.1
+1077,P003,Bluetooth Speaker,Electronics,1499,4.1
+1077,P004,Wrist Watch,Accessories,1999,3.1
+1077,P005,Backpack,Accessories,899,3.3
+1077,P009,Jeans,Clothing,1299,4.5
+1078,P010,Smartphone Stand,Electronics,399,4.3
+1078,P009,Jeans,Clothing,1299,3.7
+1078,P008,Formal Shoes,Footwear,3499,4.2
+1079,P006,Sunglasses,Accessories,699,3.8
+1079,P010,Smartphone Stand,Electronics,399,3.9
+1079,P005,Backpack,Accessories,899,4.3
+1079,P009,Jeans,Clothing,1299,3.7
+1079,P002,T-shirt,Clothing,599,5.0
+1080,P004,Wrist Watch,Accessories,1999,4.7
+1080,P005,Backpack,Accessories,899,4.2
+1080,P003,Bluetooth Speaker,Electronics,1499,3.1
+1080,P002,T-shirt,Clothing,599,3.4
+1081,P008,Formal Shoes,Footwear,3499,3.2
+1081,P005,Backpack,Accessories,899,3.4
+1081,P004,Wrist Watch,Accessories,1999,4.4
+1081,P009,Jeans,Clothing,1299,4.2
+1081,P002,T-shirt,Clothing,599,3.1
+1082,P009,Jeans,Clothing,1299,4.5
+1082,P005,Backpack,Accessories,899,3.1
+1082,P008,Formal Shoes,Footwear,3499,3.7
+1082,P010,Smartphone Stand,Electronics,399,3.1
+1082,P002,T-shirt,Clothing,599,3.5
+1082,P004,Wrist Watch,Accessories,1999,3.8
+1082,P001,Running Shoes,Footwear,2999,4.3
+1083,P009,Jeans,Clothing,1299,3.0
+1083,P002,T-shirt,Clothing,599,4.9
+1083,P006,Sunglasses,Accessories,699,4.6
+1083,P007,Headphones,Electronics,2499,4.1
+1083,P004,Wrist Watch,Accessories,1999,4.8
+1084,P004,Wrist Watch,Accessories,1999,4.9
+1084,P002,T-shirt,Clothing,599,3.8
+1084,P003,Bluetooth Speaker,Electronics,1499,4.2
+1084,P001,Running Shoes,Footwear,2999,4.2
+1084,P005,Backpack,Accessories,899,4.6
+1084,P006,Sunglasses,Accessories,699,4.1
+1085,P005,Backpack,Accessories,899,4.0
+1085,P003,Bluetooth Speaker,Electronics,1499,3.1
+1085,P004,Wrist Watch,Accessories,1999,4.8
+1086,P006,Sunglasses,Accessories,699,3.6
+1086,P008,Formal Shoes,Footwear,3499,4.7
+1086,P002,T-shirt,Clothing,599,4.5
+1086,P003,Bluetooth Speaker,Electronics,1499,3.6
+1086,P007,Headphones,Electronics,2499,4.2
+1086,P004,Wrist Watch,Accessories,1999,4.1
+1087,P004,Wrist Watch,Accessories,1999,4.4
+1087,P005,Backpack,Accessories,899,3.3
+1087,P003,Bluetooth Speaker,Electronics,1499,3.0
+1087,P007,Headphones,Electronics,2499,4.9
+1087,P010,Smartphone Stand,Electronics,399,3.0
+1088,P009,Jeans,Clothing,1299,4.0
+1088,P003,Bluetooth Speaker,Electronics,1499,4.8
+1088,P007,Headphones,Electronics,2499,3.3
+1089,P009,Jeans,Clothing,1299,3.5
+1089,P004,Wrist Watch,Accessories,1999,4.6
+1089,P005,Backpack,Accessories,899,3.4
+1090,P010,Smartphone Stand,Electronics,399,3.3
+1090,P006,Sunglasses,Accessories,699,3.9
+1090,P007,Headphones,Electronics,2499,4.5
+1091,P004,Wrist Watch,Accessories,1999,4.9
+1091,P010,Smartphone Stand,Electronics,399,4.7
+1091,P008,Formal Shoes,Footwear,3499,3.3
+1091,P003,Bluetooth Speaker,Electronics,1499,5.0
+1091,P001,Running Shoes,Footwear,2999,3.4
+1091,P005,Backpack,Accessories,899,4.0
+1091,P007,Headphones,Electronics,2499,4.5
+1092,P007,Headphones,Electronics,2499,4.7
+1092,P001,Running Shoes,Footwear,2999,4.9
+1092,P003,Bluetooth Speaker,Electronics,1499,4.3
+1092,P002,T-shirt,Clothing,599,4.1
+1092,P008,Formal Shoes,Footwear,3499,4.9
+1092,P005,Backpack,Accessories,899,3.6
+1092,P004,Wrist Watch,Accessories,1999,4.0
+1093,P009,Jeans,Clothing,1299,3.1
+1093,P003,Bluetooth Speaker,Electronics,1499,4.5
+1093,P001,Running Shoes,Footwear,2999,3.3
+1093,P002,T-shirt,Clothing,599,3.2
+1093,P004,Wrist Watch,Accessories,1999,4.4
+1094,P008,Formal Shoes,Footwear,3499,3.0
+1094,P009,Jeans,Clothing,1299,4.7
+1094,P004,Wrist Watch,Accessories,1999,5.0
+1095,P003,Bluetooth Speaker,Electronics,1499,3.9
+1095,P007,Headphones,Electronics,2499,3.3
+1095,P002,T-shirt,Clothing,599,3.2
+1095,P009,Jeans,Clothing,1299,4.2
+1096,P004,Wrist Watch,Accessories,1999,3.8
+1096,P007,Headphones,Electronics,2499,3.9
+1096,P006,Sunglasses,Accessories,699,3.2
+1096,P010,Smartphone Stand,Electronics,399,4.0
+1096,P005,Backpack,Accessories,899,3.1
+1096,P001,Running Shoes,Footwear,2999,4.8
+1096,P003,Bluetooth Speaker,Electronics,1499,4.0
+1097,P003,Bluetooth Speaker,Electronics,1499,4.4
+1097,P010,Smartphone Stand,Electronics,399,4.5
+1097,P002,T-shirt,Clothing,599,3.3
+1098,P005,Backpack,Accessories,899,4.7
+1098,P002,T-shirt,Clothing,599,4.9
+1098,P001,Running Shoes,Footwear,2999,3.3
+1098,P009,Jeans,Clothing,1299,4.0
+1099,P009,Jeans,Clothing,1299,4.0
+1099,P004,Wrist Watch,Accessories,1999,3.6
+1099,P008,Formal Shoes,Footwear,3499,4.6
+1099,P003,Bluetooth Speaker,Electronics,1499,3.9
+1100,P004,Wrist Watch,Accessories,1999,4.7
+1100,P001,Running Shoes,Footwear,2999,4.4
+1100,P002,T-shirt,Clothing,599,3.1
+1100,P005,Backpack,Accessories,899,4.8
+1100,P009,Jeans,Clothing,1299,4.1
+1100,P007,Headphones,Electronics,2499,4.6
+1100,P006,Sunglasses,Accessories,699,3.4
+1101,P010,Smartphone Stand,Electronics,399,3.3
+1101,P009,Jeans,Clothing,1299,3.9
+1101,P007,Headphones,Electronics,2499,4.4
+1101,P001,Running Shoes,Footwear,2999,3.6
+1101,P006,Sunglasses,Accessories,699,4.5
+1101,P004,Wrist Watch,Accessories,1999,4.3
+1101,P002,T-shirt,Clothing,599,3.1
+1102,P001,Running Shoes,Footwear,2999,4.3
+1102,P010,Smartphone Stand,Electronics,399,3.7
+1102,P004,Wrist Watch,Accessories,1999,3.2
+1102,P005,Backpack,Accessories,899,3.5
+1102,P008,Formal Shoes,Footwear,3499,4.0
+1103,P006,Sunglasses,Accessories,699,4.4
+1103,P001,Running Shoes,Footwear,2999,4.4
+1103,P002,T-shirt,Clothing,599,4.3
+1103,P009,Jeans,Clothing,1299,3.3
+1103,P004,Wrist Watch,Accessories,1999,3.9
+1104,P003,Bluetooth Speaker,Electronics,1499,4.9
+1104,P009,Jeans,Clothing,1299,4.5
+1104,P008,Formal Shoes,Footwear,3499,4.8
+1104,P001,Running Shoes,Footwear,2999,4.1
+1104,P002,T-shirt,Clothing,599,3.7
+1105,P006,Sunglasses,Accessories,699,3.6
+1105,P002,T-shirt,Clothing,599,4.8
+1105,P005,Backpack,Accessories,899,4.5
+1105,P004,Wrist Watch,Accessories,1999,3.7
+1105,P001,Running Shoes,Footwear,2999,3.2
+1106,P003,Bluetooth Speaker,Electronics,1499,4.5
+1106,P008,Formal Shoes,Footwear,3499,3.9
+1106,P001,Running Shoes,Footwear,2999,4.0
+1106,P009,Jeans,Clothing,1299,4.6
+1106,P005,Backpack,Accessories,899,4.6
+1106,P007,Headphones,Electronics,2499,4.8
+1106,P002,T-shirt,Clothing,599,4.9
+1107,P001,Running Shoes,Footwear,2999,4.0
+1107,P006,Sunglasses,Accessories,699,4.1
+1107,P010,Smartphone Stand,Electronics,399,3.8
+1107,P002,T-shirt,Clothing,599,3.9
+1107,P008,Formal Shoes,Footwear,3499,3.4
+1107,P009,Jeans,Clothing,1299,3.9
+1108,P009,Jeans,Clothing,1299,3.8
+1108,P007,Headphones,Electronics,2499,3.4
+1108,P008,Formal Shoes,Footwear,3499,4.2
+1108,P001,Running Shoes,Footwear,2999,3.8
+1108,P003,Bluetooth Speaker,Electronics,1499,3.6
+1108,P005,Backpack,Accessories,899,3.2
+1109,P003,Bluetooth Speaker,Electronics,1499,5.0
+1109,P004,Wrist Watch,Accessories,1999,3.3
+1109,P001,Running Shoes,Footwear,2999,3.7
+1109,P007,Headphones,Electronics,2499,3.0
+1110,P003,Bluetooth Speaker,Electronics,1499,3.1
+1110,P002,T-shirt,Clothing,599,3.4
+1110,P009,Jeans,Clothing,1299,4.5
+1110,P010,Smartphone Stand,Electronics,399,3.9
+1110,P006,Sunglasses,Accessories,699,4.6
+1110,P001,Running Shoes,Footwear,2999,3.7
+1110,P005,Backpack,Accessories,899,3.1
+1111,P008,Formal Shoes,Footwear,3499,4.6
+1111,P005,Backpack,Accessories,899,3.6
+1111,P002,T-shirt,Clothing,599,3.7
+1111,P001,Running Shoes,Footwear,2999,4.2
+1111,P006,Sunglasses,Accessories,699,3.7
+1111,P007,Headphones,Electronics,2499,5.0
+1111,P010,Smartphone Stand,Electronics,399,3.0
+1112,P005,Backpack,Accessories,899,3.6
+1112,P009,Jeans,Clothing,1299,3.7
+1112,P008,Formal Shoes,Footwear,3499,4.8
+1112,P010,Smartphone Stand,Electronics,399,3.9
+1112,P001,Running Shoes,Footwear,2999,4.0
+1113,P010,Smartphone Stand,Electronics,399,4.3
+1113,P008,Formal Shoes,Footwear,3499,3.9
+1113,P002,T-shirt,Clothing,599,4.4
+1113,P007,Headphones,Electronics,2499,3.2
+1114,P001,Running Shoes,Footwear,2999,3.2
+1114,P010,Smartphone Stand,Electronics,399,3.2
+1114,P004,Wrist Watch,Accessories,1999,4.0
+1114,P002,T-shirt,Clothing,599,3.2
+1114,P008,Formal Shoes,Footwear,3499,4.3
+1114,P003,Bluetooth Speaker,Electronics,1499,3.0
+1114,P006,Sunglasses,Accessories,699,3.0
+1115,P005,Backpack,Accessories,899,3.3
+1115,P001,Running Shoes,Footwear,2999,3.2
+1115,P008,Formal Shoes,Footwear,3499,3.3
+1116,P010,Smartphone Stand,Electronics,399,3.0
+1116,P002,T-shirt,Clothing,599,4.2
+1116,P004,Wrist Watch,Accessories,1999,5.0
+1116,P007,Headphones,Electronics,2499,3.7
+1116,P008,Formal Shoes,Footwear,3499,3.3
+1116,P005,Backpack,Accessories,899,3.2
+1117,P007,Headphones,Electronics,2499,3.2
+1117,P006,Sunglasses,Accessories,699,3.8
+1117,P004,Wrist Watch,Accessories,1999,3.2
+1117,P003,Bluetooth Speaker,Electronics,1499,3.2
+1117,P010,Smartphone Stand,Electronics,399,3.7
+1117,P002,T-shirt,Clothing,599,4.4
+1117,P001,Running Shoes,Footwear,2999,4.4
+1118,P004,Wrist Watch,Accessories,1999,3.5
+1118,P005,Backpack,Accessories,899,3.6
+1118,P002,T-shirt,Clothing,599,4.2
+1118,P009,Jeans,Clothing,1299,4.4
+1118,P001,Running Shoes,Footwear,2999,3.1
+1118,P010,Smartphone Stand,Electronics,399,4.3
+1119,P001,Running Shoes,Footwear,2999,4.4
+1119,P009,Jeans,Clothing,1299,4.5
+1119,P006,Sunglasses,Accessories,699,3.0
+1120,P003,Bluetooth Speaker,Electronics,1499,3.4
+1120,P009,Jeans,Clothing,1299,4.9
+1120,P006,Sunglasses,Accessories,699,3.1
+1120,P001,Running Shoes,Footwear,2999,3.8
+1120,P008,Formal Shoes,Footwear,3499,4.1
+1120,P010,Smartphone Stand,Electronics,399,4.6
+1121,P004,Wrist Watch,Accessories,1999,3.7
+1121,P007,Headphones,Electronics,2499,3.3
+1121,P009,Jeans,Clothing,1299,4.5
+1121,P010,Smartphone Stand,Electronics,399,4.1
+1122,P010,Smartphone Stand,Electronics,399,4.7
+1122,P001,Running Shoes,Footwear,2999,3.9
+1122,P008,Formal Shoes,Footwear,3499,3.1
+1122,P007,Headphones,Electronics,2499,4.9
+1123,P006,Sunglasses,Accessories,699,3.7
+1123,P010,Smartphone Stand,Electronics,399,4.9
+1123,P004,Wrist Watch,Accessories,1999,4.7
+1123,P005,Backpack,Accessories,899,3.1
+1123,P001,Running Shoes,Footwear,2999,3.7
+1124,P002,T-shirt,Clothing,599,3.5
+1124,P009,Jeans,Clothing,1299,4.9
+1124,P001,Running Shoes,Footwear,2999,3.8
+1125,P006,Sunglasses,Accessories,699,4.6
+1125,P001,Running Shoes,Footwear,2999,3.4
+1125,P004,Wrist Watch,Accessories,1999,3.1
+1125,P005,Backpack,Accessories,899,4.7
+1125,P008,Formal Shoes,Footwear,3499,4.4
+1125,P009,Jeans,Clothing,1299,5.0
+1126,P009,Jeans,Clothing,1299,3.8
+1126,P005,Backpack,Accessories,899,4.7
+1126,P010,Smartphone Stand,Electronics,399,3.8
+1126,P008,Formal Shoes,Footwear,3499,4.9
+1126,P003,Bluetooth Speaker,Electronics,1499,4.7
+1126,P001,Running Shoes,Footwear,2999,3.3
+1127,P007,Headphones,Electronics,2499,4.8
+1127,P006,Sunglasses,Accessories,699,4.4
+1127,P005,Backpack,Accessories,899,4.7
+1127,P002,T-shirt,Clothing,599,4.4
+1127,P001,Running Shoes,Footwear,2999,3.7
+1127,P008,Formal Shoes,Footwear,3499,4.1
+1128,P002,T-shirt,Clothing,599,4.5
+1128,P005,Backpack,Accessories,899,4.0
+1128,P003,Bluetooth Speaker,Electronics,1499,3.8
+1128,P004,Wrist Watch,Accessories,1999,3.3
+1128,P010,Smartphone Stand,Electronics,399,4.3
+1128,P001,Running Shoes,Footwear,2999,4.1
+1129,P006,Sunglasses,Accessories,699,4.5
+1129,P008,Formal Shoes,Footwear,3499,3.2
+1129,P003,Bluetooth Speaker,Electronics,1499,3.5
+1129,P010,Smartphone Stand,Electronics,399,4.5
+1129,P009,Jeans,Clothing,1299,3.3
+1129,P007,Headphones,Electronics,2499,3.2
+1129,P004,Wrist Watch,Accessories,1999,4.8
+1130,P007,Headphones,Electronics,2499,4.9
+1130,P009,Jeans,Clothing,1299,4.4
+1130,P010,Smartphone Stand,Electronics,399,4.1
+1130,P001,Running Shoes,Footwear,2999,3.6
+1130,P003,Bluetooth Speaker,Electronics,1499,3.5
+1131,P004,Wrist Watch,Accessories,1999,4.5
+1131,P005,Backpack,Accessories,899,4.2
+1131,P009,Jeans,Clothing,1299,3.3
+1131,P006,Sunglasses,Accessories,699,4.0
+1131,P010,Smartphone Stand,Electronics,399,4.1
+1131,P008,Formal Shoes,Footwear,3499,3.1
+1132,P003,Bluetooth Speaker,Electronics,1499,4.5
+1132,P001,Running Shoes,Footwear,2999,4.3
+1132,P010,Smartphone Stand,Electronics,399,3.4
+1132,P007,Headphones,Electronics,2499,4.3
+1132,P002,T-shirt,Clothing,599,3.8
+1133,P001,Running Shoes,Footwear,2999,3.2
+1133,P003,Bluetooth Speaker,Electronics,1499,4.6
+1133,P006,Sunglasses,Accessories,699,3.8
+1133,P005,Backpack,Accessories,899,3.9
+1133,P009,Jeans,Clothing,1299,4.8
+1133,P002,T-shirt,Clothing,599,3.4
+1133,P007,Headphones,Electronics,2499,3.3
+1134,P008,Formal Shoes,Footwear,3499,3.6
+1134,P001,Running Shoes,Footwear,2999,3.1
+1134,P010,Smartphone Stand,Electronics,399,4.8
+1135,P008,Formal Shoes,Footwear,3499,4.1
+1135,P001,Running Shoes,Footwear,2999,4.8
+1135,P010,Smartphone Stand,Electronics,399,4.3
+1135,P006,Sunglasses,Accessories,699,4.7
+1135,P005,Backpack,Accessories,899,4.5
+1135,P002,T-shirt,Clothing,599,3.3
+1135,P009,Jeans,Clothing,1299,4.7
+1136,P001,Running Shoes,Footwear,2999,3.7
+1136,P002,T-shirt,Clothing,599,4.2
+1136,P004,Wrist Watch,Accessories,1999,4.9
+1136,P006,Sunglasses,Accessories,699,3.3
+1136,P003,Bluetooth Speaker,Electronics,1499,4.9
+1136,P005,Backpack,Accessories,899,3.7
+1136,P007,Headphones,Electronics,2499,4.8
+1137,P007,Headphones,Electronics,2499,3.1
+1137,P005,Backpack,Accessories,899,3.4
+1137,P006,Sunglasses,Accessories,699,3.7
+1137,P010,Smartphone Stand,Electronics,399,3.5
+1137,P003,Bluetooth Speaker,Electronics,1499,4.9
+1138,P002,T-shirt,Clothing,599,3.8
+1138,P010,Smartphone Stand,Electronics,399,4.7
+1138,P008,Formal Shoes,Footwear,3499,4.0
+1138,P007,Headphones,Electronics,2499,3.3
+1138,P004,Wrist Watch,Accessories,1999,4.9
+1138,P005,Backpack,Accessories,899,4.3
+1138,P001,Running Shoes,Footwear,2999,4.8
+1139,P008,Formal Shoes,Footwear,3499,3.8
+1139,P001,Running Shoes,Footwear,2999,3.2
+1139,P002,T-shirt,Clothing,599,4.1
+1140,P003,Bluetooth Speaker,Electronics,1499,3.2
+1140,P006,Sunglasses,Accessories,699,4.3
+1140,P001,Running Shoes,Footwear,2999,4.1
+1141,P004,Wrist Watch,Accessories,1999,3.1
+1141,P008,Formal Shoes,Footwear,3499,3.9
+1141,P007,Headphones,Electronics,2499,4.6
+1141,P003,Bluetooth Speaker,Electronics,1499,4.3
+1141,P002,T-shirt,Clothing,599,4.3
+1141,P010,Smartphone Stand,Electronics,399,3.9
+1141,P001,Running Shoes,Footwear,2999,4.2
+1142,P009,Jeans,Clothing,1299,4.5
+1142,P008,Formal Shoes,Footwear,3499,3.5
+1142,P002,T-shirt,Clothing,599,4.2
+1142,P005,Backpack,Accessories,899,3.4
+1142,P001,Running Shoes,Footwear,2999,4.5
+1142,P010,Smartphone Stand,Electronics,399,4.7
+1143,P008,Formal Shoes,Footwear,3499,3.4
+1143,P006,Sunglasses,Accessories,699,4.7
+1143,P010,Smartphone Stand,Electronics,399,4.7
+1143,P001,Running Shoes,Footwear,2999,3.9
+1143,P009,Jeans,Clothing,1299,3.3
+1143,P003,Bluetooth Speaker,Electronics,1499,3.0
+1144,P005,Backpack,Accessories,899,4.5
+1144,P006,Sunglasses,Accessories,699,4.5
+1144,P004,Wrist Watch,Accessories,1999,4.2
+1144,P010,Smartphone Stand,Electronics,399,3.9
+1145,P007,Headphones,Electronics,2499,4.7
+1145,P010,Smartphone Stand,Electronics,399,3.4
+1145,P005,Backpack,Accessories,899,4.5
+1146,P008,Formal Shoes,Footwear,3499,4.3
+1146,P003,Bluetooth Speaker,Electronics,1499,3.0
+1146,P006,Sunglasses,Accessories,699,3.0
+1146,P005,Backpack,Accessories,899,3.7
+1146,P004,Wrist Watch,Accessories,1999,4.4
+1146,P009,Jeans,Clothing,1299,3.2
+1147,P010,Smartphone Stand,Electronics,399,3.3
+1147,P009,Jeans,Clothing,1299,4.6
+1147,P002,T-shirt,Clothing,599,4.1
+1147,P006,Sunglasses,Accessories,699,4.8
+1147,P003,Bluetooth Speaker,Electronics,1499,3.7
+1147,P001,Running Shoes,Footwear,2999,3.5
+1148,P008,Formal Shoes,Footwear,3499,3.7
+1148,P002,T-shirt,Clothing,599,4.7
+1148,P003,Bluetooth Speaker,Electronics,1499,3.9
+1148,P009,Jeans,Clothing,1299,3.8
+1149,P001,Running Shoes,Footwear,2999,4.7
+1149,P004,Wrist Watch,Accessories,1999,4.9
+1149,P006,Sunglasses,Accessories,699,4.7
+1149,P003,Bluetooth Speaker,Electronics,1499,4.9
+1149,P007,Headphones,Electronics,2499,3.8
+1149,P005,Backpack,Accessories,899,3.7
+1150,P001,Running Shoes,Footwear,2999,4.1
+1150,P010,Smartphone Stand,Electronics,399,3.4
+1150,P004,Wrist Watch,Accessories,1999,3.1
+1150,P007,Headphones,Electronics,2499,3.7
+1150,P006,Sunglasses,Accessories,699,3.1
+1150,P005,Backpack,Accessories,899,4.7
+1150,P003,Bluetooth Speaker,Electronics,1499,3.5
+1151,P006,Sunglasses,Accessories,699,4.2
+1151,P001,Running Shoes,Footwear,2999,3.7
+1151,P009,Jeans,Clothing,1299,4.2
+1152,P006,Sunglasses,Accessories,699,4.8
+1152,P005,Backpack,Accessories,899,3.5
+1152,P010,Smartphone Stand,Electronics,399,3.1
+1152,P008,Formal Shoes,Footwear,3499,3.7
+1152,P002,T-shirt,Clothing,599,3.1
+1153,P005,Backpack,Accessories,899,4.7
+1153,P004,Wrist Watch,Accessories,1999,3.9
+1153,P008,Formal Shoes,Footwear,3499,3.4
+1153,P002,T-shirt,Clothing,599,3.8
+1154,P003,Bluetooth Speaker,Electronics,1499,3.0
+1154,P009,Jeans,Clothing,1299,3.0
+1154,P001,Running Shoes,Footwear,2999,4.5
+1154,P007,Headphones,Electronics,2499,3.4
+1154,P004,Wrist Watch,Accessories,1999,3.5
+1154,P005,Backpack,Accessories,899,3.9
+1155,P003,Bluetooth Speaker,Electronics,1499,4.1
+1155,P009,Jeans,Clothing,1299,3.8
+1155,P002,T-shirt,Clothing,599,4.7
+1155,P008,Formal Shoes,Footwear,3499,4.5
+1155,P010,Smartphone Stand,Electronics,399,4.5
+1155,P001,Running Shoes,Footwear,2999,3.8
+1156,P002,T-shirt,Clothing,599,4.6
+1156,P006,Sunglasses,Accessories,699,3.0
+1156,P005,Backpack,Accessories,899,4.1
+1157,P007,Headphones,Electronics,2499,3.2
+1157,P006,Sunglasses,Accessories,699,3.2
+1157,P009,Jeans,Clothing,1299,4.1
+1158,P001,Running Shoes,Footwear,2999,4.4
+1158,P006,Sunglasses,Accessories,699,4.8
+1158,P007,Headphones,Electronics,2499,3.7
+1158,P002,T-shirt,Clothing,599,3.8
+1158,P008,Formal Shoes,Footwear,3499,3.7
+1158,P003,Bluetooth Speaker,Electronics,1499,4.0
+1158,P005,Backpack,Accessories,899,4.6
+1159,P007,Headphones,Electronics,2499,4.2
+1159,P002,T-shirt,Clothing,599,3.7
+1159,P010,Smartphone Stand,Electronics,399,4.4
+1159,P006,Sunglasses,Accessories,699,3.1
+1159,P001,Running Shoes,Footwear,2999,4.4
+1159,P008,Formal Shoes,Footwear,3499,3.0
+1160,P002,T-shirt,Clothing,599,4.1
+1160,P004,Wrist Watch,Accessories,1999,3.1
+1160,P009,Jeans,Clothing,1299,3.6
+1160,P005,Backpack,Accessories,899,3.8
+1160,P010,Smartphone Stand,Electronics,399,3.6
+1160,P007,Headphones,Electronics,2499,4.9
+1160,P008,Formal Shoes,Footwear,3499,3.6
+1161,P004,Wrist Watch,Accessories,1999,4.4
+1161,P007,Headphones,Electronics,2499,4.1
+1161,P002,T-shirt,Clothing,599,3.3
+1161,P008,Formal Shoes,Footwear,3499,3.7
+1161,P010,Smartphone Stand,Electronics,399,3.3
+1161,P009,Jeans,Clothing,1299,3.5
+1161,P006,Sunglasses,Accessories,699,4.3
+1162,P003,Bluetooth Speaker,Electronics,1499,3.4
+1162,P004,Wrist Watch,Accessories,1999,3.6
+1162,P010,Smartphone Stand,Electronics,399,4.9
+1163,P004,Wrist Watch,Accessories,1999,4.6
+1163,P009,Jeans,Clothing,1299,3.0
+1163,P005,Backpack,Accessories,899,4.2
+1163,P010,Smartphone Stand,Electronics,399,3.5
+1163,P002,T-shirt,Clothing,599,4.1
+1163,P001,Running Shoes,Footwear,2999,4.5
+1164,P003,Bluetooth Speaker,Electronics,1499,3.2
+1164,P009,Jeans,Clothing,1299,3.2
+1164,P007,Headphones,Electronics,2499,3.1
+1164,P006,Sunglasses,Accessories,699,3.6
+1165,P009,Jeans,Clothing,1299,3.4
+1165,P002,T-shirt,Clothing,599,4.0
+1165,P005,Backpack,Accessories,899,4.3
+1165,P008,Formal Shoes,Footwear,3499,3.7
+1165,P010,Smartphone Stand,Electronics,399,3.9
+1166,P002,T-shirt,Clothing,599,3.1
+1166,P006,Sunglasses,Accessories,699,3.7
+1166,P008,Formal Shoes,Footwear,3499,3.8
+1167,P002,T-shirt,Clothing,599,3.5
+1167,P004,Wrist Watch,Accessories,1999,3.3
+1167,P005,Backpack,Accessories,899,4.9
+1167,P003,Bluetooth Speaker,Electronics,1499,3.2
+1167,P008,Formal Shoes,Footwear,3499,3.1
+1167,P006,Sunglasses,Accessories,699,4.4
+1167,P009,Jeans,Clothing,1299,4.9
+1168,P005,Backpack,Accessories,899,3.2
+1168,P008,Formal Shoes,Footwear,3499,3.8
+1168,P009,Jeans,Clothing,1299,3.2
+1169,P005,Backpack,Accessories,899,3.9
+1169,P010,Smartphone Stand,Electronics,399,4.6
+1169,P004,Wrist Watch,Accessories,1999,4.9
+1169,P001,Running Shoes,Footwear,2999,3.1
+1170,P010,Smartphone Stand,Electronics,399,4.0
+1170,P006,Sunglasses,Accessories,699,3.5
+1170,P008,Formal Shoes,Footwear,3499,4.8
+1171,P003,Bluetooth Speaker,Electronics,1499,3.0
+1171,P009,Jeans,Clothing,1299,3.4
+1171,P006,Sunglasses,Accessories,699,3.3
+1171,P010,Smartphone Stand,Electronics,399,4.9
+1171,P007,Headphones,Electronics,2499,4.8
+1171,P008,Formal Shoes,Footwear,3499,3.6
+1171,P004,Wrist Watch,Accessories,1999,3.6
+1172,P009,Jeans,Clothing,1299,3.0
+1172,P003,Bluetooth Speaker,Electronics,1499,4.8
+1172,P007,Headphones,Electronics,2499,4.8
+1172,P001,Running Shoes,Footwear,2999,4.9
+1173,P002,T-shirt,Clothing,599,4.8
+1173,P007,Headphones,Electronics,2499,3.4
+1173,P009,Jeans,Clothing,1299,3.6
+1173,P006,Sunglasses,Accessories,699,4.0
+1173,P003,Bluetooth Speaker,Electronics,1499,4.1
+1173,P004,Wrist Watch,Accessories,1999,3.5
+1173,P008,Formal Shoes,Footwear,3499,4.3
+1174,P006,Sunglasses,Accessories,699,5.0
+1174,P003,Bluetooth Speaker,Electronics,1499,3.8
+1174,P009,Jeans,Clothing,1299,3.0
+1175,P003,Bluetooth Speaker,Electronics,1499,3.5
+1175,P002,T-shirt,Clothing,599,3.1
+1175,P004,Wrist Watch,Accessories,1999,3.5
+1175,P010,Smartphone Stand,Electronics,399,3.1
+1175,P005,Backpack,Accessories,899,5.0
+1176,P004,Wrist Watch,Accessories,1999,4.8
+1176,P009,Jeans,Clothing,1299,4.8
+1176,P008,Formal Shoes,Footwear,3499,3.9
+1177,P006,Sunglasses,Accessories,699,3.3
+1177,P008,Formal Shoes,Footwear,3499,4.9
+1177,P001,Running Shoes,Footwear,2999,4.6
+1178,P007,Headphones,Electronics,2499,4.9
+1178,P006,Sunglasses,Accessories,699,3.9
+1178,P005,Backpack,Accessories,899,4.3
+1178,P002,T-shirt,Clothing,599,3.8
+1178,P001,Running Shoes,Footwear,2999,4.0
+1179,P008,Formal Shoes,Footwear,3499,3.4
+1179,P005,Backpack,Accessories,899,3.7
+1179,P002,T-shirt,Clothing,599,3.4
+1180,P005,Backpack,Accessories,899,4.7
+1180,P001,Running Shoes,Footwear,2999,3.3
+1180,P010,Smartphone Stand,Electronics,399,4.8
+1180,P002,T-shirt,Clothing,599,4.3
+1181,P001,Running Shoes,Footwear,2999,3.6
+1181,P006,Sunglasses,Accessories,699,3.8
+1181,P005,Backpack,Accessories,899,4.1
+1181,P009,Jeans,Clothing,1299,3.7
+1181,P002,T-shirt,Clothing,599,4.7
+1181,P003,Bluetooth Speaker,Electronics,1499,3.6
+1181,P007,Headphones,Electronics,2499,3.3
+1182,P005,Backpack,Accessories,899,4.0
+1182,P008,Formal Shoes,Footwear,3499,4.0
+1182,P004,Wrist Watch,Accessories,1999,3.9
+1182,P006,Sunglasses,Accessories,699,4.9
+1183,P009,Jeans,Clothing,1299,3.1
+1183,P008,Formal Shoes,Footwear,3499,3.8
+1183,P010,Smartphone Stand,Electronics,399,4.5
+1183,P004,Wrist Watch,Accessories,1999,4.2
+1183,P007,Headphones,Electronics,2499,3.9
+1183,P002,T-shirt,Clothing,599,4.6
+1184,P004,Wrist Watch,Accessories,1999,4.2
+1184,P007,Headphones,Electronics,2499,3.6
+1184,P006,Sunglasses,Accessories,699,3.7
+1184,P003,Bluetooth Speaker,Electronics,1499,4.9
+1184,P010,Smartphone Stand,Electronics,399,5.0
+1184,P009,Jeans,Clothing,1299,4.3
+1184,P002,T-shirt,Clothing,599,5.0
+1185,P003,Bluetooth Speaker,Electronics,1499,3.4
+1185,P006,Sunglasses,Accessories,699,3.2
+1185,P010,Smartphone Stand,Electronics,399,3.3
+1185,P007,Headphones,Electronics,2499,4.0
+1185,P002,T-shirt,Clothing,599,3.3
+1186,P008,Formal Shoes,Footwear,3499,3.7
+1186,P007,Headphones,Electronics,2499,4.1
+1186,P002,T-shirt,Clothing,599,3.7
+1186,P001,Running Shoes,Footwear,2999,3.5
+1187,P006,Sunglasses,Accessories,699,3.6
+1187,P009,Jeans,Clothing,1299,3.7
+1187,P007,Headphones,Electronics,2499,3.8
+1188,P009,Jeans,Clothing,1299,4.6
+1188,P005,Backpack,Accessories,899,3.2
+1188,P010,Smartphone Stand,Electronics,399,3.1
+1188,P006,Sunglasses,Accessories,699,3.3
+1188,P004,Wrist Watch,Accessories,1999,4.9
+1188,P007,Headphones,Electronics,2499,4.1
+1189,P001,Running Shoes,Footwear,2999,4.5
+1189,P010,Smartphone Stand,Electronics,399,3.9
+1189,P005,Backpack,Accessories,899,3.3
+1189,P004,Wrist Watch,Accessories,1999,4.1
+1189,P007,Headphones,Electronics,2499,3.2
+1190,P002,T-shirt,Clothing,599,4.3
+1190,P010,Smartphone Stand,Electronics,399,4.4
+1190,P007,Headphones,Electronics,2499,3.7
+1190,P006,Sunglasses,Accessories,699,5.0
+1190,P009,Jeans,Clothing,1299,4.3
+1190,P001,Running Shoes,Footwear,2999,4.9
+1190,P003,Bluetooth Speaker,Electronics,1499,3.0
+1191,P001,Running Shoes,Footwear,2999,4.3
+1191,P004,Wrist Watch,Accessories,1999,4.4
+1191,P006,Sunglasses,Accessories,699,4.5
+1191,P002,T-shirt,Clothing,599,4.0
+1192,P010,Smartphone Stand,Electronics,399,4.1
+1192,P003,Bluetooth Speaker,Electronics,1499,3.9
+1192,P007,Headphones,Electronics,2499,4.0
+1192,P009,Jeans,Clothing,1299,4.9
+1192,P008,Formal Shoes,Footwear,3499,3.5
+1193,P005,Backpack,Accessories,899,4.3
+1193,P004,Wrist Watch,Accessories,1999,4.7
+1193,P001,Running Shoes,Footwear,2999,3.1
+1193,P002,T-shirt,Clothing,599,4.5
+1193,P006,Sunglasses,Accessories,699,4.3
+1193,P010,Smartphone Stand,Electronics,399,4.2
+1194,P009,Jeans,Clothing,1299,3.6
+1194,P001,Running Shoes,Footwear,2999,4.9
+1194,P002,T-shirt,Clothing,599,4.1
+1194,P008,Formal Shoes,Footwear,3499,3.3
+1194,P004,Wrist Watch,Accessories,1999,3.7
+1195,P007,Headphones,Electronics,2499,4.0
+1195,P010,Smartphone Stand,Electronics,399,3.1
+1195,P006,Sunglasses,Accessories,699,3.9
+1195,P001,Running Shoes,Footwear,2999,3.2
+1195,P008,Formal Shoes,Footwear,3499,4.4
+1195,P003,Bluetooth Speaker,Electronics,1499,4.0
+1195,P004,Wrist Watch,Accessories,1999,3.5
+1196,P009,Jeans,Clothing,1299,4.1
+1196,P003,Bluetooth Speaker,Electronics,1499,3.9
+1196,P002,T-shirt,Clothing,599,3.7
+1196,P001,Running Shoes,Footwear,2999,4.5
+1196,P008,Formal Shoes,Footwear,3499,4.6
+1197,P009,Jeans,Clothing,1299,4.8
+1197,P008,Formal Shoes,Footwear,3499,3.4
+1197,P003,Bluetooth Speaker,Electronics,1499,4.2
+1197,P004,Wrist Watch,Accessories,1999,4.7
+1197,P010,Smartphone Stand,Electronics,399,4.6
+1198,P001,Running Shoes,Footwear,2999,3.1
+1198,P008,Formal Shoes,Footwear,3499,4.8
+1198,P002,T-shirt,Clothing,599,3.8
+1198,P004,Wrist Watch,Accessories,1999,3.2
+1198,P009,Jeans,Clothing,1299,3.7
+1199,P006,Sunglasses,Accessories,699,4.5
+1199,P004,Wrist Watch,Accessories,1999,3.2
+1199,P001,Running Shoes,Footwear,2999,4.5
+1199,P009,Jeans,Clothing,1299,3.7
+1199,P003,Bluetooth Speaker,Electronics,1499,4.0
+1200,P010,Smartphone Stand,Electronics,399,3.1
+1200,P002,T-shirt,Clothing,599,3.1
+1200,P006,Sunglasses,Accessories,699,3.0
+1200,P007,Headphones,Electronics,2499,3.9
+1200,P001,Running Shoes,Footwear,2999,3.9
+1200,P005,Backpack,Accessories,899,4.6
